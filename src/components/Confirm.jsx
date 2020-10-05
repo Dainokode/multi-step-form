@@ -29,7 +29,7 @@ const PersonalDetails = ({ nextStep, values, prevStep }) => {
               Email <br /> <span>{values.email}</span>
             </li>
             <li>
-              Occupation <br /> <span>{values.Occupation}</span>
+              Occupation <br /> <span>{values.occupation}</span>
             </li>
             <li>
               City <br /> <span>{values.city}</span>
